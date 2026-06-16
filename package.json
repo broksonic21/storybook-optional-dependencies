@@ -1,0 +1,17 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@storybook/addon-docs": "^10.4.6",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7"
+  }
+}
