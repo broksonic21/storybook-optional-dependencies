@@ -19,3 +19,4 @@ Reproduction steps
 * Clone repo
 * `npm install` - get peer dependency issues
 * run with `npm install --no-strict-peer-deps`, see that it passes
+* once it runs once, you can then run `npm install`
