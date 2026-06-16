@@ -17,5 +17,5 @@ Reproduction link
 
 Reproduction steps
 * Clone repo
-* npm install - get peer dependency issues
-* run with npm install --no-strict-peer-deps, see that it passes
+* `npm install` - get peer dependency issues
+* run with `npm install --no-strict-peer-deps`, see that it passes
